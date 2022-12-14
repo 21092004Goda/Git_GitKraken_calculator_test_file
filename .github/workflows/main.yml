@@ -5,8 +5,10 @@ on:
       - '!refs/tags/*'
     branches:
       - '*'
+      
+
 jobs:
-  test_build:
+  run_build:
     runs-on: [ubuntu-latest]
     steps:
       # Чекаутим код
