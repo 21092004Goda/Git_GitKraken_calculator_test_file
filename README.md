@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Status+of+Last+Deployment:)](https://git.io/typing-svg)
 
-![Build Status](https://travis-ci.org/xdan/jodit.svg?branch=master)](https://travis-ci.org/xdan/jodit)
+![Build Status]([https://travis-ci.org/xdan/jodit.svg](https://github.com/21092004Goda/Git_GitKraken_calculator_test_file/actions/runs/3692200376/jobs/6257849262)?branch=master)]([https://travis-ci.org/xdan/jodit](https://github.com/21092004Goda/Git_GitKraken_calculator_test_file/actions/runs/3692200376/jobs/6257849262))
 
 
 
