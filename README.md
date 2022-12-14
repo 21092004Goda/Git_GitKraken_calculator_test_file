@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Status+of+Last+Deployment:)](https://git.io/typing-svg)
 
-[![Run-tests-on-any-Push-event](https://github.com/21092004Goda/Git_GitKraken_calculator_test_file/actions/workflows/tree.yml/badge.svg)](https://github.com/21092004Goda/Git_GitKraken_calculator_test_file/actions/workflows/tree.yml)
+[![Run-tests-on-any-Push-event](https://github.com/21092004Goda/Git_GitKraken_calculator_test_file/actions/workflows/tree.yml/badge.svg,branch=master)](https://github.com/21092004Goda/Git_GitKraken_calculator_test_file/actions/workflows/tree.yml)
+
+
 
 
 
