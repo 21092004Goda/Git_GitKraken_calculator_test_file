@@ -1,4 +1,4 @@
-def calculator(function):
+def calculator(function): :
     symbol = '+-/*'
     if not any(sign in function for sign in symbol):
         raise ValueError(f'Некорректно выражение, нет допустимых знаков ({symbol})')
