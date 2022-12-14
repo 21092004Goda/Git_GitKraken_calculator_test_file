@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Status+of+Last+Deployment:)](https://git.io/typing-svg)
 
-![Run-tests-on-any-Push-event](https://github.com/21092004Goda/Git_GitKraken_calculator_test_file/actions/workflows/tree.yml/badge.svg)
+![Build Status](https://github.com/21092004Goda/Git_GitKraken_calculator_test_file/workflows/Git_GitKraken_calculator_test_file/badge.svg)](https://github.com/{USERNAME}/{PROJECT}/actions/workflows/{FILENAME}.yml)
 
 
 
