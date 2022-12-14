@@ -7,7 +7,7 @@
 </pre> 
 
 <br>
-<img src=[![Run-tests-on-any-Push-event](https://github.com/21092004Goda/Git_GitKraken_calculator_test_file/actions/workflows/tree.yml/badge.svg?event=push)](https://github.com/21092004Goda/Git_GitKraken_calculator_test_file/actions/workflows/tree.yml)><br>
+<img src="https://github.com/21092004Goda/Git_GitKraken_calculator_test_file/actions/workflows/tree.yml/badge.svg?event=push"><br>
 
 [![Run-tests-on-any-Push-event](https://github.com/21092004Goda/Git_GitKraken_calculator_test_file/actions/workflows/tree.yml/badge.svg?event=push)](https://github.com/21092004Goda/Git_GitKraken_calculator_test_file/actions/workflows/tree.yml)
 
