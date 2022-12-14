@@ -22,6 +22,8 @@ jobs:
         run: pip install -r requirements.txt
       - name: Add Reporter
         run: pip install coverage
+      - name: Add Repo
+        run: pip install Run Calculator
       - name: Run tests
         run: coverage run Calculator/Test_programm_calculator/Calculator_test.py
       - name: Tests report
