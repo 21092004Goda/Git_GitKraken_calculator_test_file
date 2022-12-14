@@ -43,3 +43,6 @@ class CalculatorTest(TestCase):
         with self.assertRaises(ZeroDivisionError) as exclusion:
             calculator('2 / 0')
         self.assertEqual('На ноль не делят', exclusion.exception.args[0])
+
+if __name__ == '__main__':
+    unittest.main()
