@@ -25,7 +25,7 @@ jobs:
       - name: Add Reporter
         run: pip install coverage
       - name: Add Repo
-        run: pip install Run Calculator
+        run: pip install Run Calculatorz/calculator_in
       - name: Run tests
         run: coverage run Calculator/Test_programm_calculator/Calculator_test.py
       - name: Tests report
